@@ -30,7 +30,6 @@ El análisis usa datos sobre edad, sexo, estatura, peso, deporte, temporada y me
 taller-pandas-olimpiadas-grupoX/
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 ├── data/
 │   └── README.md
 ├── notebooks/
