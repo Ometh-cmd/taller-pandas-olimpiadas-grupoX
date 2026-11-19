@@ -12,8 +12,9 @@ El análisis usa datos sobre edad, sexo, estatura, peso, deporte, temporada y me
 - **Alejandro Pachón**: Líder de Reporte - Redacción, documentación y presentación de resultados
 
 ## Objetivos del proyecto
-**General:** Analizar la evolución histórica de la participación y los resultados de los atletas en los Juegos Olímpicos mediante el uso de Pandas y aplicando procesos de carga, limpieza, transformación, agrupación y visualización de datos.  
-**Específicos:**  
+**General.**  
+Analizar la evolución histórica de la participación y los resultados de los atletas en los Juegos Olímpicos mediante el uso de Pandas y aplicando procesos de carga, limpieza, transformación, agrupación y visualización de datos.  
+**Específicos:**
 - Comparar la participación olímpica por época, sexo y temporada.
 - Analizar la frecuencia y proporción de resultados con medalla.
 - Explorar la relación entre las características de los atletas y la obtención
